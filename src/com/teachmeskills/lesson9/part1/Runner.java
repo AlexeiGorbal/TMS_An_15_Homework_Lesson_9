@@ -6,7 +6,7 @@ import com.teachmeskills.lesson9.part1.model.user.UserVerification;
 
 import java.util.Scanner;
 
-public class Main {
+public class Runner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
