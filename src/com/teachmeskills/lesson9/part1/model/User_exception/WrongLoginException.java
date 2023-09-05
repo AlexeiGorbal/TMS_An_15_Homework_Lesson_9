@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson9.part1.model.Exception;
+package com.teachmeskills.lesson9.part1.model.User_exception;
 
 public class WrongLoginException extends Exception {
     private int validationErrorLong;

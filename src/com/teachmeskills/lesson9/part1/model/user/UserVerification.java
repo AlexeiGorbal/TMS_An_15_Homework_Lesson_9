@@ -1,7 +1,7 @@
 package com.teachmeskills.lesson9.part1.model.user;
 
-import com.teachmeskills.lesson9.part1.model.Exception.WrongLoginException;
-import com.teachmeskills.lesson9.part1.model.Exception.WrongPasswordException;
+import com.teachmeskills.lesson9.part1.model.User_exception.WrongLoginException;
+import com.teachmeskills.lesson9.part1.model.User_exception.WrongPasswordException;
 
 public class UserVerification {
     public static boolean loginAndPasswordVerification(String login, String password, String confirmPassword)

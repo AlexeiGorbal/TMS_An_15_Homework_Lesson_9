@@ -1,7 +1,7 @@
 package com.teachmeskills.lesson9.part1;
 
-import com.teachmeskills.lesson9.part1.model.Exception.WrongLoginException;
-import com.teachmeskills.lesson9.part1.model.Exception.WrongPasswordException;
+import com.teachmeskills.lesson9.part1.model.User_exception.WrongLoginException;
+import com.teachmeskills.lesson9.part1.model.User_exception.WrongPasswordException;
 import com.teachmeskills.lesson9.part1.model.user.UserVerification;
 
 import java.util.Scanner;
